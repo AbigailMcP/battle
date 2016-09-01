@@ -12,3 +12,4 @@ let(:player) {double :player}
   end
 
 end
+ 

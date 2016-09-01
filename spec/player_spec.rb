@@ -20,12 +20,4 @@ let(:name2) { double :name2 }
     end
   end
 
-  describe '#attack' do
-    it 'calls receive_damage' do
-      expect(player2).to receive(:receive_damage)
-      player1.attack(player2)
-    end
-  end
-
-
 end

@@ -13,4 +13,8 @@ class Player
     @hp -= DEFAULT_DAMAGE
   end
 
+  # def won?
+  #
+  # end
+
 end

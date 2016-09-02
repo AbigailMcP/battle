@@ -19,5 +19,4 @@ feature 'attack' do
     click_button('Attack!')
     expect(page).to have_content('HP 90')
   end
-
 end

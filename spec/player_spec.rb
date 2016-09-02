@@ -19,4 +19,11 @@ describe Player do
     end
   end
 
+  # describe '#won?' do
+  #   it 'returns true when player HP is zero' do
+  #     10.times { lawrence.receive_damage }
+  #     expect(lawrence.won?).to eq true
+  #   end
+  # end
+
 end
